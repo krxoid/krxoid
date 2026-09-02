@@ -31,22 +31,23 @@
 </td>
 <td width="50%" valign="top">
 
-## hey, I'm krxoid 👋
+## hey, I'm Somnath Bhargava 👋
 
-I build compilers, systems software, and stuff I probably shouldn't be writing.
+Bored 9th grader building random projects over homework. If it can be built, ill probably try to build it.
 
 ### Currently
 
-* 🔧 **Mava / matcc**
+* 🔧 **rock-core**
 * 🖥️ **BatPU-2 native toolchain**
 * 🐧 **Linux / Arch**
 * ☕ **Java**
+* 🎮 **Minecraft Bedrock / Counter Strike 2 / Cities Skylines 2**
 
 ### Projects
 
-* **[matcc](https://github.com/krxoid/matcc)** — C compiler targeting BatPU-2
-* **[rock-core](https://github.com/krxoid/rock-core)** — Minecraft Bedrock server tooling
-* **[bank-api](https://github.com/krxoid/bank-api)** — Java backend project
+* **[matcc](https://github.com/krxoid/matcc)** — Toy C compiler targeting BatPU-2
+* **[rock-core](https://github.com/krxoid/rock-core)** — Minecraft Bedrock server manager
+* **[bank-api](https://github.com/krxoid/bank-api)** — Spring Boot bank server
 
 </td>
 </tr>
@@ -54,14 +55,3 @@ I build compilers, systems software, and stuff I probably shouldn't be writing.
 
 ---
 
-### `> whoami`
-
-```text
-OS       Arch Linux
-Language Java
-Compiler Mava / matcc
-CPU      BatPU-2
-Status   probably debugging something
-```
-
-> *"If it can be built, I'll probably try to build it."*
