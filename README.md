@@ -33,7 +33,7 @@
 
 ## hey, I'm Somnath Bhargava 👋
 
-Bored 9th grader building random projects over homework. If it can be built, ill probably try to build it.
+Software developer building Linux tooling, Java applications, and compilers.
 
 ### Currently
 
