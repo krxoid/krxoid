@@ -48,6 +48,7 @@ Software developer building Linux tooling, Java applications, and compilers.
 * **[matcc](https://github.com/krxoid/matcc)** — Toy C compiler targeting BatPU-2
 * **[rock-core](https://github.com/krxoid/rock-core)** — Minecraft Bedrock server manager
 * **[bank-api](https://github.com/krxoid/bank-api)** — Spring Boot bank server
+* **[sgs-site](https://github.com/krxoid/sgs-site)** — ReacrJS learning project
 
 </td>
 </tr>
