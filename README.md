@@ -1,58 +1,36 @@
-# krxoid
+# hey, i'm krxoid 👋
 
-> **I use Arch btw.**
+**9th grader · Developer · Linux enjoyer 🐧**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Building things, breaking things, and figuring out how they work.
 
-<pre>
-                  -`
-                 .o+`
-                `ooo/
-               `+oooo:
-              `+oooooo:
-              -+oooooo+:
-            `/:-:++oooo+:
-           `/++++/+++++++:
-          `/++++++++++++++:
-         `/+++ooooooooooooo/`
-        ./ooosssso++osssssso+`
-       .oossssso-````/osssssso+`
-      -osssssso.      :ssssssso.
-     :osssssss/        osssso+++
-    /ossssssss/        +ssssooo/-
-  `/ossssso+/:-        -:/+osssso+-
- `+sso+:-`                 `.-/+oso:
-`++:.                           `-/+/
-.`                                 `/
-</pre>
-
-</td>
-<td width="50%" valign="top">
-
-## hey, I'm Somnath Bhargava 👋
-
-Software developer building Linux tooling, Java applications, and compilers.
-
-### Currently
-
-* 🔧 **rock-core**
-* 🖥️ **BatPU-2 native toolchain**
-* 🐧 **Linux / Arch**
-* ☕ **Java**
-* 🎮 **Minecraft Bedrock / Counter Strike 2 / Cities Skylines 2**
-
-### Projects
-
-* **[matcc](https://github.com/krxoid/matcc)** — Toy C compiler targeting BatPU-2
-* **[rock-core](https://github.com/krxoid/rock-core)** — Minecraft Bedrock server manager
-* **[bank-api](https://github.com/krxoid/bank-api)** — Spring Boot bank server
-* **[sgs-site](https://github.com/krxoid/sgs-site)** — ReacrJS learning project
-
-</td>
-</tr>
-</table>
+> Time is on my side. I'm just getting started. ⏳
 
 ---
 
+### 🚀 What I'm building
+
+* 🧩 **matcc** — A toy C compiler targeting BatPU-2 assembly.
+* 🏫 **SGS Server** — A school management backend built with Java, Spring Boot, and PostgreSQL.
+* 🖥️ **rock-core** — Tools for Minecraft Bedrock server management.
+
+### 🛠️ My toolbox
+
+<img src="https://skillicons.dev/icons?i=java,python,c,spring,postgres,gradle,linux,git,github&theme=dark" alt="My tech stack" />
+
+### 🧠 Currently exploring
+
+* ⚙️ Compiler design & systems programming
+* 👁️ Computer vision & object tracking
+* 🌐 Backend engineering
+
+### 📊 GitHub stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=krxoid&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krxoid&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used languages" />
+
+---
+
+🐙 [@krxoid](https://github.com/krxoid)
+
+<sub>still learning. still building. occasionally fighting the compiler. 💀</sub>
