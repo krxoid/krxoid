@@ -33,4 +33,4 @@ Building things, breaking things, and figuring out how they work.
 
 🐙 [@krxoid](https://github.com/krxoid)
 
-<sub>still learning. still building. occasionally fighting the compiler. 💀</sub>
+<sub>still learning. still building. occasionally fighting the verbose ass logs of spring</sub>
